@@ -9,7 +9,15 @@ public class Main {
         // Shpping cart program
 
         Scanner scanner = new Scanner(System.in);
-        
+
+        String item;
+        double price;
+        int quantity;
+        char currency = '$';
+        double total;
+
+        scanner.close();
+
     }
     
 }
