@@ -28,6 +28,7 @@ public class Main {
         total = price * quantity;
 
         System.out.println("\nYou have bought " + quantity + " " + item + "/s");
+        System.out.println("your total is: " + currency + total);
 
 
         scanner.close();
